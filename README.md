@@ -6,12 +6,8 @@ I'm on a path to complete all the projects from Roadmap.sh, without exception, e
 
 If you want to carry out this project, just go to: [Single-Page CV](https://roadmap.sh/projects/single-page-cv)
 
-## Authors
-
-- [@raineridev](https://www.github.com/raineridev)
-
-
-## Feedback
-
-If you have any feedback, please reach out to us at marcelo@mraineriraineri.com
-
+## Check List
+- [X]  Semantic HTML: Use appropriate HTML tags to structure your CV.
+- [X]  SEO Meta Tags: Include essential meta tags for SEO.
+- [X]  Open Graph (OG) Tags: Add OG tags for better social media sharing.
+- [X]  Favicon: Add a favicon for your CV page.
